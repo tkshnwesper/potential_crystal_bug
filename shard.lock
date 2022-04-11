@@ -1,0 +1,6 @@
+version: 2.0
+shards:
+  namespace:
+    git: https://github.com/tkshnwesper/namespace.git
+    version: 0.1.0+git.commit.6e571c0f03e5a41a0d08cdd3391dcbb7b18d1ef9
+

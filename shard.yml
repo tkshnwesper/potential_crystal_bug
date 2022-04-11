@@ -1,6 +1,10 @@
 name: potential_crystal_bug
 version: 0.1.0
 
+dependencies:
+  namespace:
+    github: tkshnwesper/namespace
+
 authors:
   - tkshnwesper <tkshnwesper@users.noreply.github.com>
 
